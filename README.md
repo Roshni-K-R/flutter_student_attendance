@@ -18,9 +18,7 @@ Student Attendence Page a flutter app list of students and their attendence stat
 # screenshot
 
 First Page
-![first page](https://github.com/user-attachments/assets/28dcffae-758f-4a49-bec6-e3d3b0f06e0f)
-Pop up
-![popup](https://github.com/user-attachments/assets/b134bc54-7d8f-4e88-a3e7-6ba6b6dc83db)
+![first page](https://github.com/user-attachments/assets/28dcffae-758f-4a49-bec6-e3d3b0f06e0f) Pop up ![popup](https://github.com/user-attachments/assets/b134bc54-7d8f-4e88-a3e7-6ba6b6dc83db)
 Dropdown
 ![dropdown](https://github.com/user-attachments/assets/a151e010-4a23-44ba-b7dc-4489cf7dfa2f)
 StudentList
